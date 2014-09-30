@@ -8,5 +8,7 @@ for x in range(8):
 def print_board(board):
     for row in board:
         print (" ".join(row))
+		
+print_board(board)
 
-end_game = raw_input ("Press Enter to End the Game")
+end_game = input ("Press Enter to End the Game")
