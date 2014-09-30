@@ -1,2 +1,2 @@
 This is just a simple game of checkers made in Python.
-Install Python 3.4 to run.
+Install Python 2.7 to run.
