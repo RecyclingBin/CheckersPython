@@ -10,5 +10,3 @@ def print_board(board):
         print (" ".join(row))
 		
 print_board(board)
-
-end_game = input ("Press Enter to End the Game")
