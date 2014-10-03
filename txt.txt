@@ -1,2 +1,2 @@
-This pretty much looks like total shit now...
 Testing the command line... again... again... again
+I think I got it now
